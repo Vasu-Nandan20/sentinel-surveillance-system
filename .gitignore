@@ -1,0 +1,32 @@
+# Compiled class files
+target/
+
+# Maven local installation
+.maven/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build artifacts
+*.jar
+*.war
+*.ear
+
+# Logs and reports (generated at runtime)
+logs/
+reports/
+
+# Maven wrapper download
+mvnw-dist.zip
+apache-maven.zip

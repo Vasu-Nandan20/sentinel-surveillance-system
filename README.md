@@ -175,7 +175,7 @@ src/main/java/com/sentinel/surveillance/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/sentinel-surveillance-system.git
+git clone https://github.com/Vasu-Nandan20/sentinel-surveillance-system.git
 cd sentinel-surveillance-system
 
 # Option 1: Windows batch script
